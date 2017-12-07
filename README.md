@@ -1,4 +1,4 @@
-# disclaimer
+# Disclaimer
 
 ## About
 
@@ -6,7 +6,7 @@
 
 ## Notice of usage
 
-This repository contains open resources developed in-house.
+This repository contains open resources developed in-house and with partners.
 
 The sole responsibility for the content of this webpage lies with the authors. It does not necessarily reflect the opinion of the European Union. Neither Eurostat nor the European Commission are responsible for any use that may be made of the information contained therein.
 
