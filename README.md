@@ -1,10 +1,31 @@
-# Disclaimer
 
-## About
+[![Eurostat online]( https://img.shields.io/badge/everything_starts_here-go_social!-blue.png?style=plastic)]( https://github.com/eurostat/)
+
+### About
 
 [_Eurostat_](http://ec.europa.eu/eurostat) is the statistical office of the European Union. We provide high quality statistics for Europe.
 
-## Notice of usage
+[Contributions](#contributions) are welcome.
+
+### Contents
+
+
+#### Visualisation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
+
+* [d3.sunburst](https://github.com/eurostat/d3.sunburst): Reusable function (`Javascript`) to easily create sunburst visualizations based on `D3.js`.
+* [EurostatVisu](https://github.com/eurostat/EurostatVisu): Web visualisations of Eurostat data.
+* [d3force4EUSILC](https://github.com/eurostat/d3force4EUSILC): Applying (`Javascript`/`Python`) `d3`-force layout for slicing and exploring EU-SILC data. 
+
+#### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
+
+* [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation.
+* esbase: `Python` API to Eurostat online database.
+
+#### Working together
+
+* [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
+
+### Disclaimer
 
 This repository contains open resources developed in-house and with partners.
 
