@@ -11,20 +11,20 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 ### Contents
 
-#### Process ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5)
+#### Data handling and processing ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5)
 
-* [PING](https://github.com/eurostat/PING): Library of macro/function utilities developed (`R`/`SAS`/`Stata`) for the implementation of statistical processes in production environments.
+* [PING](https://github.com/eurostat/PING): Library of macro/function utilities developed (`R`/`SAS`/`Stata`) for the implementation of statistical processes in production environments (_note_: other components of the GSBPM model are also identified in this resource).
 * [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation.
 
 #### Data integration and record linkage ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.1)
 
 * [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth.
 
-#### Estimation and weighting ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
+#### Estimation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
 * [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms..
 
-#### Time series and seasonal adjustment ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
+#### Time series ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
 * [prophet](https://github.com/eurostat/prophet): Applying Facebook Prophet model for forecasting Eurostat monthly indicators.
 
