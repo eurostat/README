@@ -1,5 +1,5 @@
 
-[![Eurostat online]( https://img.shields.io/badge/everything_starts_here-go_social!-blue.png?style=plastic)]( https://github.com/eurostat/)
+[![Eurostat online]( https://img.shields.io/badge/everything_starts_here-go_social!-blue.png?style=plastic)]( https://github.com/eurostat/) eurostat@github
 
 ### About
 
@@ -9,6 +9,22 @@
 
 ### Contents
 
+#### Process ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5)
+
+* [PING](https://github.com/eurostat/PING): Library of macro/function utilities developed (`R`/`SAS`/`Stata`) for the implementation of statistical processes in production environments.
+* [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation.
+
+#### Data integration and record linkage ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.1)
+
+* [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth.
+
+#### Estimation and weighting ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
+
+* [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms..
+
+#### Time series and seasonal adjustment ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
+
+* [prophet](https://github.com/eurostat/prophet): Applying Facebook Prophet model for forecasting Eurostat monthly indicators.
 
 #### Visualisation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
 
@@ -18,7 +34,7 @@
 
 #### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
 
-* [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation.
+* [Nuts2json](https://github.com/eurostat/Nuts2json): Various versions of Eurostat NUTS dataset as `JSON` formats, for web mapping.
 * esbase: `Python` API to Eurostat online database.
 
 #### Working together
