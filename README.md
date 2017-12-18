@@ -37,7 +37,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 #### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
 
 * [Nuts2json](https://github.com/eurostat/Nuts2json): Various versions of Eurostat NUTS dataset as `JSON` formats, for web mapping.
-* esbase: `Python` API to Eurostat online database.
+* esdata: `Python` API to Eurostat online database.
 
 #### Working together
 
