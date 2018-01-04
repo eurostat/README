@@ -22,7 +22,8 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 #### Estimation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
-* [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms..
+* [econowcast](https://github.com/eurostat/econowcast): Tools (`R`) for Big Data econometrics nowcasting and early estimates.
+* [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms.
 
 #### Time series ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
