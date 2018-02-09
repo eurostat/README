@@ -33,7 +33,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [d3.sunburst](https://github.com/eurostat/d3.sunburst): Reusable function (`Javascript`) to easily create sunburst visualizations based on `D3.js`.
 * [EurostatVisu](https://github.com/eurostat/EurostatVisu): Web visualisations of Eurostat data.
-* [d3force4EUSILC](https://github.com/eurostat/d3force4EUSILC): Applying `d3`-force layout for slicing and exploring (`Javascript`/`Python`) EU-SILC data. 
+* [d3ex4es](https://github.com/eurostat/d3ex4es): Applying `d3.js` framework for handling and exploring (`Javascript`/`Python`) Eurostat data and metadata.
 
 #### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
 
