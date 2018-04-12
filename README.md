@@ -31,7 +31,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 #### Statistical disclosure control ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 6.4)
 
-* [confly](https://github.com/eurostat/confly): Implementation (`SAS`) of microdata disclosure control methods for confidentiality on the fly.
+* [confly](https://github.com/eurostat/confly): Implementation (`SAS`) of disclosure control methods for microdata confidentiality on the fly.
 
 #### Visualisation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
 
