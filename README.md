@@ -27,7 +27,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 #### Time series ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
-* [prophet](https://github.com/eurostat/prophet): Applying Facebook Prophet model for forecasting Eurostat monthly indicators.
+* [prophet](https://github.com/eurostat/prophet): Applying (in `Python`) Facebook Prophet model for forecasting Eurostat monthly indicators.
 
 #### Statistical disclosure control ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 6.4)
 
@@ -36,7 +36,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 #### Visualisation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
 
 * [d3.sunburst](https://github.com/eurostat/d3.sunburst): Reusable function (`Javascript`) to easily create sunburst visualizations based on `D3.js`.
-* [EurostatVisu](https://github.com/eurostat/EurostatVisu): Web visualisations of Eurostat data.
+* [EurostatVisu](https://github.com/eurostat/EurostatVisu): Web visualisations (`Javascript`) of Eurostat data.
 * [d3ex4es](https://github.com/eurostat/d3ex4es): Applying `d3.js` framework for handling and exploring (`Javascript`/`Python`) Eurostat data and metadata.
 
 #### Access to official statistics ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.4)
