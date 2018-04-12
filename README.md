@@ -29,6 +29,10 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [prophet](https://github.com/eurostat/prophet): Applying Facebook Prophet model for forecasting Eurostat monthly indicators.
 
+#### Statistical disclosure control ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 6.4)
+
+* [confly](https://github.com/eurostat/confly): Implementation (`SAS`) of microdata disclosure control methods for confidentiality on the fly.
+
 #### Visualisation ([GSBPM](http://www1.unece.org/stat/platform/display/metis/The+Generic+Statistical+Business+Process+Model) 7.2)
 
 * [d3.sunburst](https://github.com/eurostat/d3.sunburst): Reusable function (`Javascript`) to easily create sunburst visualizations based on `D3.js`.
@@ -39,6 +43,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [Nuts2json](https://github.com/eurostat/Nuts2json): Various versions of Eurostat NUTS dataset as `JSON` formats, for web mapping.
 * [pyrostat](https://github.com/eurostat/pyrostat): `Python` API to Eurostat online database.
+* [happygisco](https://github.com/eurostat/happygisco): Simple microservice (`Python` API) on top of Eurostat GISCO web-services.
 
 #### Working together
 
