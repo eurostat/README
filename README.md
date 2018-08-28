@@ -60,7 +60,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 ### Note
 
-Any resemblance of this page to the [awesome list of statistical software packages](https://github.com/SNStatComp/awesome-official-statistics-software) is surely not fortuitous. 
+Any resemblance between this page and the [awesome list of statistical software packages](https://github.com/SNStatComp/awesome-official-statistics-software) is surely not coincidental. 
 
 ### Disclaimer
 
