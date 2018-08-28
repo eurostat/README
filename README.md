@@ -20,7 +20,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth.
 
-#### Statistical data editing (GSBPM 5.3 | 5.4)
+#### Statistical data editing ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.3 | 5.4)
 
 * [flagr](https://github.com/eurostat/flagr): A simple `R` package to derive flag for aggregates.
 
@@ -57,6 +57,10 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
 * [esbeamer](https://github.com/eurostat/esbeamer): Eurostat layout style/template for `LaTeX` beamer presentation.
+
+### Note
+
+Any resemblance of this page to the [awesome list of statistical software packages](https://github.com/SNStatComp/awesome-official-statistics-software) is surely not fortuitous. 
 
 ### Disclaimer
 
