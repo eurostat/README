@@ -56,7 +56,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 #### Working together
 
 * [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
-* [esbeamer](https://github.com/eurostat/esbeamer): Eurostat layout style/template for `LaTeX` beamer presentation.
+* [beamslide](https://github.com/eurostat/beamslide): Eurostat layout style/template for `LaTeX` beamer presentation.
 
 ### Note
 
