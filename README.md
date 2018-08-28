@@ -20,6 +20,10 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth.
 
+#### Statistical data editing (GSBPM 5.3 | 5.4)
+
+* [flagr](https://github.com/eurostat/flagr): A simple `R` package to derive flag for aggregates.
+
 #### Data validation and transformation ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.3 | 5.4 | 5.5 | 5.6 | 5.7)
 
 * [VTL](https://github.com/eurostat/VTL): interpreter of VTL (Validation and Transformation Language) provided together with the sandbox user interface.
