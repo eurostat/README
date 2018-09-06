@@ -27,7 +27,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 #### Data validation and transformation ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.3 | 5.4 | 5.5 | 5.6 | 5.7)
 
-* [VTL](https://github.com/eurostat/VTL): interpreter of VTL (Validation and Transformation Language) provided together with the sandbox user interface.
+* [VTL](https://github.com/eurostat/VTL): interpreter of `VTL` (Validation and Transformation Language) provided together with the sandbox user interface.
 
 #### Estimation ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
