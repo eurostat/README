@@ -32,7 +32,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 #### Estimation ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
 * [econowcast](https://github.com/eurostat/econowcast): Experimental tools (`R`) for Big Data econometrics nowcasting and early estimates.
-*  [ecobackcast](https://github.com/eurostat/ecobackcast): Experimental tools (`R`) for back-casting principal European Economic indicators. 
+*  [ecobackcast](https://github.com/eurostat/ecobackcast): Experimental tools (`R`) for back-casting principal European Economic Indicators. 
 * [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms.
 
 #### Time series ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
