@@ -14,8 +14,9 @@ Contributions are welcome: we invite your participation through collaboration, i
 #### Data handling and processing ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5)
 
 * [PING](https://github.com/eurostat/PING): Library of macro/function utilities developed (`R`/`SAS`/`Stata`) for the implementation of statistical processes in production environments (_note_: other components of the GSBPM model are also identified in this resource).
-* [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation.
+* [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation and easy access to Eurostat data.
 * [EuroGeoStat](https://github.com/eurostat/EuroGeoStat): Manipulation of geographical and statistical data in `Java`, with a focus on Eurostat data.
+* [SeaRoute](https://github.com/eurostat/searoute): Computation of shortest maritime routes between ports in `Java`.
 
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.1)
 
@@ -51,6 +52,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.4)
 
+* [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation and easy access to Eurostat data.
 * [eurostat.js](https://github.com/eurostat/eurostat.js): `Javascript` libraries for Eurostat data users and web developers.
 * [Nuts2json](https://github.com/eurostat/Nuts2json): Various versions of Eurostat NUTS dataset as `JSON` formats, for web mapping.
 * [pyrostat](https://github.com/eurostat/pyrostat): `Python` API to Eurostat online database.
