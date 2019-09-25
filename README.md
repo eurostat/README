@@ -51,8 +51,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [d3.examples](https://github.com/eurostat/d3.examples): Applying `d3.js` framework for handling and exploring (`Javascript`/`Python`) Eurostat data and metadata.
 * [PowerBI-connector](https://github.com/eurostat/PowerBI-connector): `PowerBI` custom connector for Eurostat API.
 
-#### Dissemination products ([GSBPM]
-(https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.2)
+#### Dissemination products ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.2)
 
 * [dff](https://github.com/eurostat/dff): Promoting the use of a publically available scanner data set in price index research and for capacity building (`R`/`SAS`).
 
