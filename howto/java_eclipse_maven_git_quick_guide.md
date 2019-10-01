@@ -54,10 +54,10 @@ Edit the *pom.xml* file located at the base of the project folder. This file des
 
 </project>
 ```
-where `MY_TOOL` is the name of the tool and `X.Y` the version tag.
+where `MY_TOOL` is the name of the tool and `X.Y` its version.
 
-Hit F5 and Alt+F5 to refresh the project. It should then be possible to use the tool in the `main` function of the application.
+Hit F5 and Alt+F5 to refresh the project. It should then be possible to use the tool in the `main` function of the application. You could start with the code snippets usually proposed in the tool documentation.
 
 ## Feedback
 
-Something missing, outdated or wrong? Feel free to [report it](https://github.com/eurostat/README/issues/new).
+Something missing, outdated or wrong on this page? Feel free to [report it](https://github.com/eurostat/README/issues/new).
