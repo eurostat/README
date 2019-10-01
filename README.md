@@ -62,6 +62,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [Nuts2json](https://github.com/eurostat/Nuts2json): Various versions of Eurostat NUTS dataset as `JSON` formats, for web mapping.
 * [pyrostat](https://github.com/eurostat/pyrostat): `Python` API to Eurostat online database.
 * [happyGISCO](https://github.com/eurostat/happyGISCO): Simple microservice (`Python` API) built on top of Eurostat GISCO web-services.
+ * [restatapi](https://github.com/eurostat/restatapi): An `R` package to search and retrieve data from Eurostat online database.
 
 #### Working together
 
