@@ -23,6 +23,7 @@ If not already installed, download and install [Eclipse](https://www.eclipse.org
 - Choose a *Group Id* such as *org.myorganisation* and an *Artifact Id* such as *my_application*. Keep the other options and hit *Finish* button. You application is now created.
 - To test it, right click on *src/main/java* and select *New > Class*. Choose *MyApplication* or another preferred class name and hit *Finish* button.
 - Insert the following test code:
+
 ```java
 package MyApplication
 
@@ -34,6 +35,7 @@ public class MyApplication {
 
 }
 ```
+
 - Save and launch the application with *Run > Run* (or Ctrl+F11). You should see the text *Hello Europe !* displayed in the output console.
 
 ## Use the tool
