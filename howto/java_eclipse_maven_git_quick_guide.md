@@ -10,7 +10,7 @@ If not already installed, download and install [Java](https://www.java.com/en/do
 
 To retrieve the code of the tool you want to use, launch a command: `git clone https://github.com/eurostat/MY_TOOL.git`, where `MY_TOOL` is the name of the tool.
 
-To install it, move to the folder of the tool with a command: `cd path_to/MY_TOOL`. There should be a *pom.xml* file in this folder. Then run `mvn clean install`.
+To install it, move to the tool folder with a command: `cd path_to/MY_TOOL`. There should be a *pom.xml* file in this folder. Then run `mvn clean install`.
 
 ## Create a Java project (with Eclipse)
 
