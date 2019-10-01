@@ -1,1 +1,1 @@
-**Note**: This folder contains common documentation pages which concern several repositories. They can be accessed from [https://eurostat.github.io/README/howto/](https://eurostat.github.io/README/howto/) URL for example.
+**Note**: This folder contains common documentation pages which concern several repositories. They can be accessed from [https://eurostat.github.io/README/docs/](https://eurostat.github.io/README/docs/) URL for example.
