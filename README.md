@@ -16,7 +16,10 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [PING](https://github.com/eurostat/PING): Library of macro/function utilities developed (`R`/`SAS`/`Stata`) for the implementation of statistical processes in production environments (_note_: other components of the GSBPM model are also identified in this resource).
 * [java4eurostat](https://github.com/eurostat/java4eurostat): `Java` library for multi-dimensional data manipulation and easy access to Eurostat data.
 * [EuroGeoStat](https://github.com/eurostat/EuroGeoStat): Manipulation of geographical and statistical data in `Java`, with a focus on Eurostat data.
+* [EuroGen](https://github.com/eurostat/EuroGen): Some automated map generalisation processes and software for the production of European geographical datasets.
+* [GridMaker](https://github.com/eurostat/GridMaker): Tool to produce grid geometries for European statistics.
 * [SeaRoute](https://github.com/eurostat/searoute): Computation of shortest maritime routes between ports in `Java`.
+
 
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.1)
 
