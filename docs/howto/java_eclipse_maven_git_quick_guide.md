@@ -2,7 +2,7 @@
 
 This page describes a quick way to start using one of the Java tools proposed on Eurostat Github space such as [JGiscoTools](https://github.com/eurostat/JGiscoTools) or [Java4Eurostat](https://github.com/eurostat/Java4Eurostat).
 
-## Create a Java project (with Eclipse)
+## 1- Create a Java project (with Eclipse)
 
 - If not already installed, download and install [Eclipse](https://www.eclipse.org/)
 - Launch Eclipse.
@@ -27,7 +27,7 @@ public class MyApplication {
 
 - Finally, save and launch the application with *Run > Run* (or Ctrl+F11). You should see the text *Hello Europe !* displayed in the output console.
 
-## Use the tool
+## 2- Use the tool
 
 Edit the *pom.xml* file located at the base of the project folder. This file describes your application, including its dependencies. To indicate the application uses the tool, include the following `<dependencies>` section:
 
