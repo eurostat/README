@@ -1,6 +1,6 @@
-# How to use a Java tool from Eurostat/github
+# How to use a Java library from Eurostat/github
 
-This page describes a quick way to start using one of the Java tools proposed on Eurostat Github space such as [JGiscoTools](https://github.com/eurostat/JGiscoTools) or [Java4Eurostat](https://github.com/eurostat/Java4Eurostat).
+This page describes a quick way to start using one of the Java libraries proposed on Eurostat Github space such as [JGiscoTools](https://github.com/eurostat/JGiscoTools) or [Java4Eurostat](https://github.com/eurostat/Java4Eurostat).
 
 ## 1- Create a Java project (with Eclipse)
 
