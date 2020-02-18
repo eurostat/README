@@ -74,7 +74,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
 * [beamslide](https://github.com/eurostat/beamslide): _Eurostat_ layout style/template for `LaTeX` beamer presentation.
-* [bibestat](https://github.com/eurostat/bibestat): _Eurostat_ bibliographical footprint, references and citations. 
+* [bibestat](https://github.com/eurostat/bibestat): _Eurostat_ bibliographical footprint, `BibTeX` references and citations. 
 
 ### Note
 
