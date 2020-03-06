@@ -52,7 +52,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [d3.sunburst](https://github.com/eurostat/d3.sunburst): Reusable function (`Javascript`) to easily create sunburst visualizations based on `D3.js`.
 * [EurostatVisu](https://github.com/eurostat/EurostatVisu): Web visualisations (`Javascript`) of _Eurostat_ data.
 * [d3.examples](https://github.com/eurostat/d3.examples): Applying `d3.js` framework for handling and exploring (`Javascript`/`Python`) _Eurostat_ data and metadata.
-* [EuroGridVisualizer](https://github.com/eurostat/EuroGridVisualizer): `Three.js` visualization for gridded statistics. 
+* [EuroGridViz](https://github.com/eurostat/EuroGridViz): `Three.js` visualization for gridded statistics. 
 * [regl-map-animation](https://github.com/eurostat/regl-map-animation): Configurable `WebGL` animation showing a map transitioning into a chart.
 
 #### Dissemination products ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.2)
