@@ -19,6 +19,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [GridMaker](https://github.com/eurostat/GridMaker): `Java` tool to produce grid geometries for European statistics.
 * [searoute](https://github.com/eurostat/searoute): Computation of shortest maritime routes between ports in `Java`.
 * [RegionSimplify](https://github.com/eurostat/RegionSimplify): `Java` tool to simplify vector geographical datasets representing tesselations, such as administrative regions, land cover areas. 
+* [GeoDiff](https://github.com/eurostat/GeoDiff): `Java` tool to analyse differences between two versions of a vector geospatial dataset.
 
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.1)
 
