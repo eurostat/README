@@ -20,10 +20,13 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [searoute](https://github.com/eurostat/searoute): Computation of shortest maritime routes between ports in `Java`.
 * [RegionSimplify](https://github.com/eurostat/RegionSimplify): `Java` tool to simplify vector geographical datasets representing tesselations, such as administrative regions, land cover areas. 
 * [GeoDiff](https://github.com/eurostat/GeoDiff): `Java` tool to analyse differences between two versions of a vector geospatial dataset.
+* [pygridmap](https://github.com/eurostat/pygridmap): Geoprocessing tools (`Python`) for efficient geometric mapping and set operations over regular grids.
+* [regl-map-animation](https://github.com/eurostat/regl-map-animation): Configurable `WebGL` animation showing a map transitioning into a chart. 
 
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.1)
 
 * [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth (see _statistics-coded_).
+* [healthcare-services](https://github.com/eurostat/healthcare-services): Healthcare services in Europe from a number of official datasources.
 
 #### Statistical data editing ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.3 | 5.4)
 
@@ -36,12 +39,14 @@ Contributions are welcome: we invite your participation through collaboration, i
 #### Estimation ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
 * [econowcast](https://github.com/eurostat/econowcast): Experimental tools (`R`) for Big Data econometrics nowcasting and early estimates.
-*  [ecobackcast](https://github.com/eurostat/ecobackcast): Experimental tools (`R`) for back-casting principal European Economic Indicators. 
+* [ecobackcast](https://github.com/eurostat/ecobackcast): Experimental tools (`R`) for back-casting principal European Economic Indicators. 
 * [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms.
+* [pvarquant](https://github.com/eurostat/pvarquant): Experimental tools (`R`) on pVAR models for timely estimates. 
 
 #### Time series ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
 * [prophet](https://github.com/eurostat/prophet): Applying (in `Python`) Facebook Prophet model for forecasting Eurostat monthly indicators.
+* [mortality-viz](https://github.com/eurostat/mortality-viz): Basic descriptive statistics on mortality data in `Python`.
 
 #### Statistical disclosure control ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 6.4)
 
@@ -52,8 +57,10 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [d3.sunburst](https://github.com/eurostat/d3.sunburst): Reusable function (`Javascript`) to easily create sunburst visualizations based on `D3.js`.
 * [EurostatVisu](https://github.com/eurostat/EurostatVisu): Web visualisations (`Javascript`) of _Eurostat_ data.
 * [d3.examples](https://github.com/eurostat/d3.examples): Applying `d3.js` framework for handling and exploring (`Javascript`/`Python`) _Eurostat_ data and metadata.
-* [EuroGridViz](https://github.com/eurostat/EuroGridViz): `Three.js` visualization for gridded statistics. 
+* [GridViz](https://github.com/eurostat/GridViz): `Three.js` visualization for gridded statistics. 
 * [regl-map-animation](https://github.com/eurostat/regl-map-animation): Configurable `WebGL` animation showing a map transitioning into a chart.
+* [NutsDorlingCartogram](https://github.com/eurostat/NutsDorlingCartogram): Dorling cartogram from NUTS regions with _Eurostat_ statistics.
+* [Copernicus-DEM-viewer](https://github.com/eurostat/Copernicus-DEM-viewer): `Leaflet` viewer for DEMs made available by Copernicus.
 
 #### Dissemination products ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.2)
 
@@ -68,7 +75,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [Nuts2json](https://github.com/eurostat/Nuts2json): Various versions of _Eurostat_ NUTS dataset as `JSON` formats, for web mapping.
 * [pyrostat](https://github.com/eurostat/pyrostat): `Python` API to _Eurostat_ online database.
 * [happyGISCO](https://github.com/eurostat/happyGISCO): Simple microservice (`Python` API) built on top of _Eurostat_ GISCO web-services.
- * [restatapi](https://github.com/eurostat/restatapi): An `R` package to search and retrieve data from _Eurostat_ online database.
+* [restatapi](https://github.com/eurostat/restatapi): An `R` package to search and retrieve data from _Eurostat_ online database.
 * [PowerBI-connector](https://github.com/eurostat/PowerBI-connector): `PowerBI` custom connector for _Eurostat_ API.
 
 #### Working together
@@ -76,6 +83,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [udoxy](https://github.com/eurostat/udoxy): Guidelines and script (`bash`) for generic standalone code documentation.
 * [beamslide](https://github.com/eurostat/beamslide): _Eurostat_ layout style/template for `LaTeX` beamer presentation.
 * [bibestat](https://github.com/eurostat/bibestat): _Eurostat_ bibliographical footprint, `BibTeX` references and citations. 
+* [eurostat_latex](): `LaTeX` stylesheet for _Eurostat_ Statistical Working papers.
 
 ### Note
 
