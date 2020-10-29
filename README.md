@@ -42,6 +42,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [ecobackcast](https://github.com/eurostat/ecobackcast): Experimental tools (`R`) for back-casting principal European Economic Indicators. 
 * [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms.
 * [panelvar](https://github.com/eurostat/panelvar): Experimental tools (`R`) on pVAR models for timely estimates. 
+* [Spatial-KWD ](https://github.com/eurostat/Spatial-KWD ): Computing (`Python`/`R`) Kantorovich-Wasserstein distances for large spatial maps.
 
 #### Time series ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
