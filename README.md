@@ -26,7 +26,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 #### Data integration and record linkage ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.1)
 
 * [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth (see _statistics-coded_).
-* [healthcare-services](https://github.com/eurostat/healthcare-services): Integration of healthcare services data in Europe collected from a number of official datasources.
+* [basic-services](https://github.com/eurostat/basic-services): Integration of basic services data in Europe collected from a number of official datasources and published by _Eurostat_.
 
 #### Statistical data editing ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.3 | 5.4)
 
