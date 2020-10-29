@@ -65,7 +65,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 #### Dissemination products ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.2)
 
-* [statistics-coded](https://github.com/eurostat/statistics-coded): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Stastistics Explained articles.
+* [statistics-coded](https://github.com/eurostat/statistics-coded): Catalogue of resources (`R`/`Python`/`SQL`/`SAS`/`Stata`/...) to reproduce the results of _Eurostat_ Statistics Explained articles.
 * [dff](https://github.com/eurostat/dff): Promoting the use of a publically available scanner data set in price index research and for capacity building (`R`/`SAS`).
 
 #### Access to official statistics ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 7.4)
