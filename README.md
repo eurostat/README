@@ -44,7 +44,8 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms.
 * [panelvar](https://github.com/eurostat/panelvar): Experimental tools (`R`) on pVAR models for timely estimates. 
 * [Spatial-KWD ](https://github.com/eurostat/Spatial-KWD ): Computing (`Python`/`R`) Kantorovich-Wasserstein distances for large spatial maps.
-* [OJA_estimation_study](https://github.com/eurostat/OJA_estimation_study) Experimental tools (`R`) for estimation of Job Vacancies Statistics (JVS) from Online Job Advertisements (OJA). 
+* [OJA_estimation_study](https://github.com/eurostat/OJA_estimation_study): Experimental tools (`R`) for estimation of Job Vacancies Statistics (JVS) from Online Job Advertisements (OJA). 
+* [SAE_citystat](https://github.com/eurostat/SAE_citystat): Simulation in `R` for Small Area Estimation (SAE) using the AMELIA dataset. 
 
 #### Time series ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
