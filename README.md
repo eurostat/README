@@ -27,7 +27,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth (see _statistics-coded_).
 * [basic-services](https://github.com/eurostat/basic-services): Integration of basic services data in Europe collected from a number of official datasources and published by _Eurostat_.
-* [Smartdata4MNEs](https://github.com/eurostat/Smartdata4MNEs): Code to retreive and link publicly avaialbale data from the web on Multi-National Enterprises
+* [Smartdata4MNEs](https://github.com/eurostat/Smartdata4MNEs): Code to retreive and link publicly avaialbale data from the web on Multi-National Enterprises.
 
 #### Statistical data editing ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.3 | 5.4)
 
@@ -44,6 +44,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 * [quantile](https://github.com/eurostat/quantile): Agnostic (re)implementations (`R`/`SAS`/`Python`/`C`) of common quantile estimation algorithms.
 * [panelvar](https://github.com/eurostat/panelvar): Experimental tools (`R`) on pVAR models for timely estimates. 
 * [Spatial-KWD ](https://github.com/eurostat/Spatial-KWD ): Computing (`Python`/`R`) Kantorovich-Wasserstein distances for large spatial maps.
+* [OJA_estimation_study](https://github.com/eurostat/OJA_estimation_study) Experimental tools (`R`) for estimation of Job Vacancies Statistics (JVS) from Online Job Advertisements (OJA). 
 
 #### Time series ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.6 | 5.7)
 
