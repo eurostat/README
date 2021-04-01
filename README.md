@@ -27,6 +27,7 @@ Contributions are welcome: we invite your participation through collaboration, i
 
 * [ICW](https://github.com/eurostat/ICW): Codes (`R`) for experimental statistics on household income, consumption and wealth (see _statistics-coded_).
 * [basic-services](https://github.com/eurostat/basic-services): Integration of basic services data in Europe collected from a number of official datasources and published by _Eurostat_.
+* [Smartdata4MNEs](https://github.com/eurostat/Smartdata4MNEs): Code to retreive and link publicly avaialbale data from the web on Multi-National Enterprises
 
 #### Statistical data editing ([GSBPM](https://statswiki.unece.org/display/GSBPM/Generic+Statistical+Business+Process+Model) 5.3 | 5.4)
 
